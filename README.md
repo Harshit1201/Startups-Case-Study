@@ -15,9 +15,9 @@ Dataset: The dataset comprises of around 3000 observations with 10 attributes. T
 - Remarks
 
 The aim is to answer the following questions:
-*How does the funding Ecosystem chane with respect to time?
-*What is the general amount that startups get in India?
-*What kind of industries are more preffered for start-ups?
-*Does the Location influence the growth of a start-up?
-*Who plays the main role in Indian start-ups?
-*What are the different types of funding for start-ups?
+* How does the funding Ecosystem chane with respect to time?
+* What is the general amount that startups get in India?
+* What kind of industries are more preffered for start-ups?
+* Does the Location influence the growth of a start-up?
+* Who plays the main role in Indian start-ups?
+* What are the different types of funding for start-ups?
